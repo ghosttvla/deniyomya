@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Sporzzzzzzzzz (164)",BELGESEL AMK
+http://78.130.250.2:8023/play/a02m/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Sporzzzzzzzzz (165)",BELGESEL AMK
+http://78.130.250.2:8023/play/a02m/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kerimmkirac/CanliTvListe/refs/heads/main/vavoo.png" group-title="Sporzzzzzzzzz (166)",BELGESEL AMK
+http://78.130.250.2:8023/play/a02m/index.m3u8
